@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="http://13.209.84.189:8080/Kmarket/" target="_blank"><img src="https://img.shields.io/badge/Kmarket-배경색?style=뱃지모양&logo=로고&logoColor=white"/></a>
-
+<a href="http://13.209.84.189:8080/Kmarket/" target="_blank"><img src="https://img.shields.io/badge/Kmarket-배경색?style=뱃지모양&logo=로고&logoColor=white"/></a> <a href="http://13.209.84.189:8080/Farmstory/" target="_blank"><img src="https://img.shields.io/badge/Farmstory-배경색?style=뱃지모양&logo=로고&logoColor=white"/></a> <a href="http://13.209.84.189:8080/TheJoenMovie/" target="_blank"><img src="https://img.shields.io/badge/TheJoenMovie-배경색?style=뱃지모양&logo=로고&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DubblePos&show_icons=true&theme=radical)
